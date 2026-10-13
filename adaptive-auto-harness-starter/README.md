@@ -223,4 +223,3 @@ This is an educational project in agent evaluation and adaptive harness design. 
 
 ## License
 
-Choose a license before inviting external contributions. MIT is a common permissive option; review the implications before adding it.
